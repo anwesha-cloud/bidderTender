@@ -1,73 +1,17 @@
-# Welcome to your Lovable project
+# Bidder Tender Project
+> The website is not fully functional yet, as the integration of the API is causing issues, resulting in a blank page output.
 
-## Project info
 
-**URL**: https://lovable.dev/projects/d5e31141-4d3b-4c33-85fe-64848e7603df
+The platform is a global marketplace that aggregates government and public tenders from various countries in one place. The system will provide detailed tender information, including descriptions, deadlines, documents, and links. AI-powered tools will assist bidders by generating tailored proposals and recommending the most relevant tenders based on bidder profiles and historical data. The platform will ensure secure and smooth transactions by integrating payment functionality prior to proposal downloads.
 
-## How can I edit this code?
+Objectives
 
-There are several ways of editing your application.
+Aggregate government and public tenders from multiple countries into one searchable marketplace.
 
-**Use Lovable**
+Provide AI-powered proposal generation for bidders, customized to specific tenders.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d5e31141-4d3b-4c33-85fe-64848e7603df) and start prompting.
+Implement a recommendation system that matches bidders to tenders using vector embeddings.
 
-Changes made via Lovable will be committed automatically to this repo.
+Ensure secure payments before allowing proposal downloads.
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d5e31141-4d3b-4c33-85fe-64848e7603df) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Improve bidder efficiency and access to tender opportunities.
